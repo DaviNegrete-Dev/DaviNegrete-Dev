@@ -1,13 +1,13 @@
 # Hi there! 👋
 
-I'm David Negrete, a Software Development student from Colombia, currently interested in Product Support, Application Support, and SaaS Customer Support.
+I'm David Negrete, a Software Development student from Colombia, currently delivering value through  Product Support, Application Support, and SaaS Customer Support.
 
 ```js
 const davidNegrete = {
 
   role: "Software Development Student",
 
-  targetRoles: [
+  currentFocus: [
     "Product Support",
     "Application Support",
     "SaaS Customer Support"
@@ -21,7 +21,7 @@ const davidNegrete = {
     "Troubleshooting"
   ],
 
-  learningAndInterests: [
+  learning: [
     "Data Structures & Algorithms",
     "Cloud Computing",
     "Software Architecture",
@@ -40,7 +40,7 @@ const davidNegrete = {
 
 * 🎓🌱 Currently studying Software Development at University focusing on core software fundamentals, programming logic, algorithms and data structures
 * 💻 Completed a Full Stack MERN Bootcamp and built hands-on web projects.
-* 🛠️  Interested in creating value through Product Support, Application Support, and SaaS Customer Support.
+* 🛠️🎧 Creating value through Product Support, Application Support, and SaaS Customer Support.
 
 ## Featured Projects
 
@@ -58,4 +58,4 @@ Full-stack billing application for managing customers, products, and invoices.
 
 ## Connect with me
 
-[LinkedIn](#https://www.linkedin.com/in/david-negrete-dev/) · [Email](mailto:davi.negrete.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/david-negrete-dev/) · [Email](mailto:davi.negrete.dev@gmail.com)
