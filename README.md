@@ -48,7 +48,7 @@ const davidNegrete = {
 
 Full-stack e-commerce application built during my web development training.
 
-[Frontend Repository](#) · [Backend Repository](#) · [Live Demo](#)
+[Frontend Repository](https://github.com/DaviNegrete-Dev/ecommerce-frontend) · [Backend Repository](https://github.com/DaviNegrete-Dev/ecommerce-backend) · [Live Demo](https://lamuebleria-store.netlify.app/)
 
 ### Billing Software
 
